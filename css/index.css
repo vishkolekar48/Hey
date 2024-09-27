@@ -1,0 +1,1042 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+.water-ul li{
+    position: relative; 
+    display: inline-block;
+    left: 50%;
+    margin: 25px;
+    top: -50px;
+    font-size: 15px;
+    color: black;
+}
+.water h1{
+    margin-left: 45px;
+    margin-top: 10px;
+    color: blue;
+    
+}
+
+.bg1{
+    position: relative;
+    height: 500px;
+    width: auto;
+    top: -40px;
+    background-image: url("/Swimming/Nadar-beneficios.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.container div{
+    display: inline-block;
+    top: -160px;
+    left: 70px;
+    margin: 10px;
+    
+
+}
+
+.orange{
+    background-image: url("/Swimming/f16.png");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    position: relative;
+    color: white;
+    
+ }
+.orange h3{
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+.orange p{
+    position:absolute;
+    top:100px;
+    width: 160px;
+    font-size: 20px;
+    left: 5px;
+    
+}
+.orange a img{
+    position: absolute;
+    right: -30px;
+    bottom: -100px;
+}
+
+
+.blue{
+    background-image: url("/Swimming/f14.png");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    position: relative;
+    color: white;
+    left: 120px;
+    
+}
+.blue h3{
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+.blue p{
+    position:absolute;
+    top:100px;
+    width: 160px;
+    font-size: 20px;
+    left: 5px;
+    
+}
+.blue a img{
+    position: absolute;
+    right: -30px;
+    bottom: -100px;
+}
+
+.red{
+    background-image: url("/Swimming/f17.png");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    position: relative;
+    color: white;
+    
+}
+.red h3{
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+.red p{
+    position:absolute;
+    top:100px;
+    width: 160px;
+    font-size: 20px;
+    left: 5px;
+    
+}
+.red a img{
+    position: absolute;
+    right: -30px;
+    bottom: -100px;
+}
+
+.magenta{
+    background-image: url("/Swimming/f15.png");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    position: relative;
+    color: white;
+    
+}
+.magenta h3{
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    font-size: 28px;
+}
+.magenta p{
+    position:absolute;
+    top:100px;
+    width: 160px;
+    font-size: 20px;
+    left: 5px;
+    
+}
+.magenta a img{
+    position: absolute;
+    right: -30px;
+    bottom: -100px;
+}
+
+#grey1{
+    background-color: rgba(236, 231, 231, 0.568);
+    width: 380px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    color: black;
+    left: 79px; 
+}
+#grey1 h3{
+    position: absolute;
+    top: 20px;
+    text-align:center;
+    font-size: 28px;
+    left: 70px;
+}
+#grey1 p{
+    position:absolute;
+    top:90px;
+    width: auto;
+    font-size: 20px;
+    left: 15px;
+    text-align: center;
+    
+}
+#grey1 a{
+    background-image: url("/Swimming/f9.png");
+    width: 170px;
+    height: 38px;
+    position: absolute; 
+    top: 110px;
+    left: 10px;
+    color: white;
+    font-size: 20px;
+    padding-top: 15px;
+}
+.grey1{
+     width: 380px;
+     height: 300px;
+     left: 99px;
+     position: relative;  
+ }
+ .grey1 img{
+    width: 420px;
+    height: 340px;
+   
+    top: -39.5px;
+    position: absolute;  
+}
+#grey2{
+    background-color: rgba(236, 231, 231, 0.568);
+    width: 380px;
+    height: 300px;
+     padding: 20px;
+     position: relative;
+     color: black;
+     left: 95px;
+     top: -74px;  
+ }
+ #grey2 h3{
+     position: absolute;
+     top: 20px;
+     text-align:center;
+     font-size: 28px;
+     left: 60px;
+ }
+ #grey2 p{
+     position:absolute;
+     top:90px;
+     width: auto;
+     font-size: 20px;
+     left: 15px;
+     text-align: center;
+     
+ }
+ #grey2 a{
+     background-image: url("/Swimming/f9.png");
+     width: 170px;
+     height: 38px;
+     position: absolute; 
+     top: 110px;
+     left: 10px;
+     color: white;
+     font-size: 20px;
+     padding-top: 15px;
+ }
+ .grey2{
+    width: 380px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    color: black;
+    left: 59px; 
+}
+
+.grey2 img{
+    width: 420px;
+    height: 340px;
+    top: 25px;
+    position: absolute;   
+}
+.container1 .grey1,.grey2{
+    display: inline-block;
+    top: -100px;
+}
+.bg2{
+    position: relative;
+    height: 450px;
+    width: auto;
+    background-image: url("/Swimming/f6.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.bg2 img{
+    height: 450px;
+    width: 515px;
+    left: 52px;
+    position: absolute;
+    opacity: 0.9;
+}
+.bg3 {
+    width: 450px;
+    left: 80px;
+    top: -410px;
+    color: white;
+    position: relative;
+}
+.bg3 h3{
+    font-size: 30px;
+    font-weight: 100;
+    width: 300px;
+    position: absolute;
+}
+.bg3 p{
+    top: 140px;
+    position: absolute;
+}
+#para{
+    top: 260px;
+    position: absolute; 
+}
+.bg3 a{
+    top: 340px;
+    background-color: white;
+    position: absolute;
+    padding: 15px;
+    width: 90px;
+    text-align: center;
+}
+.event{
+    background-color:rgb(255, 115, 0);
+    width: 380px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    color: white;
+    left: 79px; 
+    top: 50px;
+}
+.event ul li{
+    list-style-type:circle;
+    line-height: 3;
+    top: 60px;
+    position: relative;
+    left: 60px;
+}
+
+.event h3{
+    position: absolute;
+    top: 30px;
+}
+.event1{
+    position: relative;
+}
+.event1 img{
+    width: 420px;
+    height: 340px;
+    position: absolute;
+    left: 520px;
+    top: -290px;
+}
+
+.container2-li1{
+    position: relative;
+    background-color: rgba(236, 231, 231, 0.568);
+    top: 80px;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    color: black;
+    top: 170px;
+    
+}
+.container2-li1 img{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    left: 40px;
+    top: -60px;
+}
+.container2-li1 p{
+    position: absolute;
+    top: 80px;
+    width: 129px;
+    font-size: 15px;
+    left: 40px;  
+}
+.container2-li1 h5{
+    position: absolute;
+    top: 230px;
+    width: 129px;
+    font-size: 15px;
+    left: 40px; 
+    color: red;
+}
+.container2 .container2-li1,.container2-li2{
+    display: inline-block;
+    left: 68px;
+    margin-left: 14px;
+}
+.container2-li2{
+    position: relative;
+    background-color: rgba(236, 231, 231, 0.568);
+    top: 80px;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    position: relative;
+    color: black;
+    top: 170px;
+    
+}
+.container2-li2 img{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    left: 40px;
+    top: -60px;
+}
+.container2-li2 p{
+    position: absolute;
+    top: 80px;
+    width: 129px;
+    font-size: 15px;
+    left: 40px;  
+}
+.container2-li2 h5{
+    position: absolute;
+    top: 230px;
+    width: 129px;
+    font-size: 15px;
+    left: 40px; 
+    color: red;
+}
+.container3{
+    color: black;
+    position: relative;
+}
+.contact{
+    background-color: blue;
+    width: 380px;
+    height: 300px;
+    padding: 20px;
+    position: relative;
+    color: white;
+    left: 83px; 
+    top: 210px;
+}
+.contact h3{
+    font-size: 25px;
+    left: 35px;
+    position: absolute;
+    top: 50px;
+}
+.contact p{
+    position: absolute;
+    top: 100px;
+    left: 35px;
+}
+.contact a{
+    position: relative;
+    top: 200px;
+    left: 20px;
+}
+#a1{
+    position: relative;
+    top: 160px;
+    font-size: 28px;
+    color: white;
+    left: 20px;
+}
+#email{
+    position: absolute;
+    top: 228px;
+    color: white;
+    left: 38px;
+}
+.map iframe{
+    position: absolute;
+    left: 525px;
+    width: 405px;
+    height: 340px;
+    top: 210px;
+}
+footer{
+    position: relative;
+    top: 260px;
+    text-align: center;
+    color: rgba(0, 0, 255, 0.594);
+    font-size: 20px;
+    bottom: 30px;
+}
+@media  screen and (max-width:768px){
+    
+    .water h1{
+        position: absolute;
+    }
+    .water-ul li{
+        
+        left: 50%;
+        margin: 25px;
+        top: 15px;
+        font-size: 15px;
+        color: black;
+    }
+
+    .bg1{
+       
+        height: 500px;
+        width: 939px;
+        top: 80px;
+    }
+    .container .red{
+        display: block;
+        left: 250px;
+    }
+    .container .magenta{
+        left: 474px;
+        top: -295px;
+    }
+    .container div{
+        left: 250px;
+        top: -25px;
+    }
+    #grey1{
+        left: 45px;
+    }
+    .container1 .grey1 img{
+        width: 420px;
+        height: 340px;
+        top: -345px;
+        left: 390px;
+    }
+    .container1 .grey2 img{
+        width: 420px;
+        height: 340px;
+        top: -270px;
+        left: -10px;
+        
+    }
+    #grey2{
+        top: -709px;
+        left: 490px;
+    }
+    .bg2{
+        top: -35rem;
+        height: 450px;
+        width: 939px;  
+    }
+    .bg3{
+        top: -61rem;
+    }
+    .event{
+        top: -27rem;
+        left: 35px;
+    }
+    .event1{
+        top: -30rem;
+        left: -20px;
+    }
+    .container2 ul .container2-li1{
+        top: -20rem;
+        left: 28%;
+        margin: 30px;
+           
+    }
+    .container2-li2{
+
+       top: -10rem;
+       left: 28%;
+       display: block;
+    } 
+    .container2 ul .container2-li2{
+        top: -10rem;
+    }
+    #li3{
+        position: absolute;
+        left: 480px;
+        top: 229.3rem;
+        
+    }
+    .contact{
+        top: -20px;    
+    }
+    .map iframe{
+        top: -20px;
+    }
+    footer{
+        top: -3px;
+        left: 80px;
+    }
+} 
+@media screen and (max-width:425px){
+  
+.water-ul li{
+    position: relative; 
+    display: inline-block;
+    left: 60%;
+    margin: 10px;
+    top: -60px;
+    font-size: 15px;
+    color: black;
+    list-style-type: none;
+}
+.bg1{
+    position: relative;
+    height: 200px;
+    width: 650px;
+    background-image: url("/Swimming/Nadar-beneficios.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.container div{
+    display: inline-block;
+    top: -60px;
+    left: 35%;
+}
+.orange{
+    background-image: url("/Swimming/f16.png");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    position: relative;
+    color: white;
+   
+ }
+ .orange h3{
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    font-size: 28px;
+}
+.orange p{
+    position:absolute;
+    top:90px;
+    width: 160px;
+    font-size: 20px;
+    left: 10px;
+    
+}
+.orange a img{
+    position: absolute;
+    right: -30px;
+    bottom: -100px;
+    text-decoration: none;
+}
+
+.blue{
+    background-image: url("/Swimming/f14.png");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    position: relative;
+    color: white;
+ }
+ .blue h3{
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    font-size: 28px;
+}
+.blue p{
+    position:absolute;
+    top:90px;
+    width: 160px;
+    font-size: 20px;
+    left: 10px;
+    
+}
+.blue a img{
+    position: absolute;
+    right: -30px;
+    bottom: -100px;
+    text-decoration: none;
+}
+
+.red{
+    background-image: url("/Swimming/f17.png");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    position: relative;
+    color: white;
+ }
+ .red h3{
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    font-size: 28px;
+}
+.red p{
+    position:absolute;
+    top:90px;
+    width: 160px;
+    font-size: 20px;
+    left: 10px;
+    
+}
+.red a img{
+    position: absolute;
+    right: -30px;
+    bottom: -100px;
+}
+.magenta{
+    background-image: url("/Swimming/f15.png");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    position: relative;
+    color: white;
+ }
+ .magenta h3{
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    font-size: 28px;
+}
+.magenta p{
+    position:absolute;
+    top:90px;
+    width: 160px;
+    font-size: 20px;
+    left: 10px;
+    
+}
+.magenta a img{
+    position: absolute;
+    right: -30px;
+    bottom: -100px;
+}
+#grey1{
+    background-color: rgba(236, 231, 231, 0.568);
+    width: 300px;
+    height: 300px;
+    position: relative;
+    color: black;
+    left: 25px; 
+}
+#grey1 h3{
+    position: absolute;
+    top: 2px;
+    
+    font-size: 28px;
+    left: 30px;
+}
+#grey1 p{
+    position:absolute;
+    top:90px;
+    width: auto;
+    font-size: 20px;
+    left: 15px;
+    text-align: center;   
+}
+#grey1 a{
+    background-image: url("/Swimming/f9.png");
+    width: 100px;
+    height: 38px;
+    position: absolute; 
+    top: 110px;
+    left: 10px;
+    color: white;
+    font-size: 20px;
+    padding-top: 15px;
+    text-decoration: none;
+}
+.grey1{
+    width: 300px;
+    height: 300px;
+    left: 99px;
+    position: relative;  
+}
+.grey1 img{
+    width: 280px;
+    height: 300px;
+   left: 250px;
+    position: absolute;  
+    top: -297px;
+}
+
+#grey2{
+    background-color: rgba(236, 231, 231, 0.568);
+    width: 285px;
+    height: 300px;
+    position: relative;
+    color: black;
+    left: 350px;  
+    top: -570px;
+}
+#grey2 h3{
+    position: absolute;
+    top: 2px;
+    
+    font-size: 28px;
+    left: 30px;
+}
+#grey2 p{
+    position:absolute;
+    top:90px;
+    width: auto;
+    font-size: 20px;
+    left: 15px;
+    text-align: center;   
+}
+#grey2 a{
+    background-image: url("/Swimming/f9.png");
+    width: 100px;
+    height: 38px;
+    position: absolute; 
+    top: 110px;
+    left: 10px;
+    color: white;
+    font-size: 20px;
+    padding-top: 15px;
+    text-decoration: none;
+}
+.grey2{
+    width: 300px;
+    height: 300px;
+    left: 25px; 
+    position: relative;  
+}
+.grey2 img{
+    width: 300px;
+    height: 300px;
+    position: absolute;  
+    top: -273px;
+}
+.bg2{
+    top: -420px;
+    position: relative;
+    height: 300px;
+    width: 650px;
+    background-image: url("/Swimming/f6.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+.bg2 img{
+    height: 300px;
+    width: 300px;
+    left: 52px;
+    position: absolute;
+    opacity: 0.9;
+}
+.bg3 {
+    width: 270px;
+    left: 80px;
+    top: -420px;
+    color: white;
+    position: relative;
+}
+.bg3 h3{
+    top: -320px;
+    font-size: 27px;
+    font-weight: 100;
+    width: 270px;
+    position: absolute;
+}
+.bg3 p{
+    top: -165px;
+    position: absolute;
+}
+#para{
+    top: -200px;
+    position: absolute; 
+    
+}
+.bg3 a{
+    top: -50px;
+    background-color: white;
+    position: absolute;
+    padding: 15px;
+    width: 90px;
+    text-align: center;
+    text-decoration: none;
+}
+.event{
+    background-color:rgb(255, 115, 0);
+    width: 290px;
+    height: 280px;
+    padding: 20px;
+    position: relative;
+    color: white;
+    left: 15px; 
+    top: -278px;
+}
+.event ul li{
+    list-style-type:circle;
+    line-height: 1.5;
+    left: 10px;
+    top: 30px;
+    position: relative;
+   
+}
+.event h3{
+    position: absolute;
+    left: 30%;
+    top: 7px;
+    
+}
+.event1{
+    position: relative;
+}
+.event1 img{
+    width: 300px;
+    height: 320px;
+    position: absolute;
+    left: 350px;
+    top: -599px;
+}
+.container2-li1{
+    position: relative;
+    background-color: rgba(236, 231, 231, 0.568);
+    top: 80px;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    color: black;
+    top: -127px;
+    left: 30px;
+    list-style-type: none;
+    
+}
+.container2-li1 img{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    left: 40px;
+    top: -60px;
+}
+.container2-li1 p{
+    position: absolute;
+    top: 80px;
+    width: 129px;
+    font-size: 15px;
+    left: 40px;  
+}
+.container2-li1 h5{
+    position: absolute;
+    top: 230px;
+    width: 129px;
+    font-size: 15px;
+    left: 40px; 
+    color: red;
+}
+#image1{
+    position: absolute;
+    top: 160rem;
+    left: 400px;
+}
+
+.container2-li2{
+    position: relative;
+    background-color: rgba(236, 231, 231, 0.568);
+    top: 80px;
+    width: 200px;
+    height: 250px;
+    text-align: start;
+    color: black;
+    top: -10px;
+    left: 30px;
+    list-style-type: none;
+    
+}
+.container2-li2 img{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    left: 40px;
+    top: -60px;
+}
+.container2-li2 p{
+    position: absolute;
+    top: 80px;
+    width: 129px;
+    font-size: 15px;
+    left: 40px;  
+}
+.container2-li2 h5{
+    position: absolute;
+    top: 230px;
+    width: 129px;
+    font-size: 15px;
+    left: 40px; 
+    color: red;
+}
+#image2{
+    position: absolute;
+    top: 183rem;
+    left: 400px;
+}
+.container3{
+    color: black;
+    position: relative;
+}
+.contact{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    
+    position: relative;
+    color: white;
+    left: -15px; 
+    top: 50px;
+}
+.contact h3{
+    font-size: 25px;
+    left: 35px;
+    position: absolute;
+    top: 10px;
+}
+.contact p{
+    position: absolute;
+    top: 80px;
+    left: 35px;
+}
+.contact a{
+    position: relative;
+    top: 210px;
+    left: 30px;
+    text-decoration: none;
+}
+#a1{
+    position: relative;
+    top: 170px;
+    font-size: 28px;
+    color: white;
+    left: 30px;
+}
+#email{
+    position: absolute;
+    top: 228px;
+    color: white;
+    left: 38px;
+}
+.map iframe{
+    position: absolute;
+    left: 350px;
+    width: 280px;
+    height: 300px;
+    top: 50px;
+}
+footer{
+    position: relative;
+    top: 100px;
+   width: 600px;
+    color: rgba(0, 0, 255, 0.594);
+    font-size: 23px;
+    bottom: 30px;
+    left: 50px;
+}
+}
